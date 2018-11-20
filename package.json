@@ -1,0 +1,17 @@
+{
+  "name": "doppler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ip": "^1.1.5",
+    "readline-sync": "^1.4.9",
+    "ws": "^6.1.2"
+  }
+}
